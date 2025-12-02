@@ -1,0 +1,4 @@
+reservation
+detention
+booking
+holding

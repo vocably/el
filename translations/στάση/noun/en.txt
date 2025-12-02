@@ -1,0 +1,5 @@
+stop
+stance
+attitude
+posture
+station

@@ -1,0 +1,5 @@
+ladder
+staircase
+stairway
+scale
+gangway

@@ -1,0 +1,5 @@
+incline
+lean
+bend
+decline
+conjugate

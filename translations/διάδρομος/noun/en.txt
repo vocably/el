@@ -1,0 +1,5 @@
+corridor
+hallway
+aisle
+passageway
+gangway

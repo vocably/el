@@ -1,0 +1,4 @@
+belief
+opinion
+notion
+view
