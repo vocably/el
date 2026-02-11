@@ -1,0 +1,3 @@
+taximeter
+meter
+taxi meter

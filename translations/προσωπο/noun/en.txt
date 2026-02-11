@@ -1,0 +1,9 @@
+face
+person
+character
+aspect
+individual
+personality
+role
+countenance
+visage

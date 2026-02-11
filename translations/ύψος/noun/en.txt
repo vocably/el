@@ -1,0 +1,5 @@
+height
+altitude
+level
+intensity
+magnitude

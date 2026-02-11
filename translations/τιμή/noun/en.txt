@@ -1,0 +1,7 @@
+price
+value
+honor
+respect
+cost
+estimation
+valuation

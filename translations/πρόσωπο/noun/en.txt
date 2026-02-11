@@ -1,0 +1,5 @@
+face
+person
+individual
+character
+role

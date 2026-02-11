@@ -1,0 +1,4 @@
+open
+turn on
+create an opening
+start

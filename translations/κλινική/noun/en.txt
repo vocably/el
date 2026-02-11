@@ -1,0 +1,8 @@
+clinic
+hospital
+infirmary
+polyclinic
+medical center
+outpatient clinic
+consulting room
+doctor's office

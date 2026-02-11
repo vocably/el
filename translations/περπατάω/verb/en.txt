@@ -1,0 +1,3 @@
+walk
+am walking
+do walk

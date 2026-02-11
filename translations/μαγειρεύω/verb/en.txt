@@ -1,0 +1,5 @@
+cook
+am cooking
+do cook
+will cook
+cooked

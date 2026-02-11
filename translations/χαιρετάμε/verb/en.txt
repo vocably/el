@@ -1,0 +1,2 @@
+we greet
+we are greeting

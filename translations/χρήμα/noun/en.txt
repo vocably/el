@@ -1,0 +1,6 @@
+money
+currency
+wealth
+riches
+assets
+funds

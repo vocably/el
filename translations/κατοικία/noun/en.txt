@@ -1,0 +1,5 @@
+home
+house
+residence
+dwelling
+abode

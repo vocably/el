@@ -1,0 +1,3 @@
+bus station
+bus terminal
+bus stop

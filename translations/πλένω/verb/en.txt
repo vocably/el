@@ -1,0 +1,5 @@
+wash
+rinse
+bathe
+cleanse
+shower

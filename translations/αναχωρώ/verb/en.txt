@@ -1,0 +1,4 @@
+depart
+leave
+set off
+start a journey

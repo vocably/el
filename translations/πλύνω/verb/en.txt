@@ -1,0 +1,9 @@
+I wash
+I clean
+I rinse
+I am washing
+I am cleaning
+I am rinsing
+I do wash
+I do clean
+I do rinse

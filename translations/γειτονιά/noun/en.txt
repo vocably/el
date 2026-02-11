@@ -1,0 +1,5 @@
+neighborhood
+community
+vicinity
+district
+quarter
