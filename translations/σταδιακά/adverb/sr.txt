@@ -1,0 +1,1 @@
+["postepeno","faza po faza","malo po malo"]
