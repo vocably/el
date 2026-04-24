@@ -1,1 +1,2 @@
-["xemsarî kirin","paşguh kirin"]
+xemsarî kirin
+paşguh kirin

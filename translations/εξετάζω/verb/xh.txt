@@ -1,1 +1,3 @@
-["ndihlola","ndihlolisis","ndihlalutya"]
+ndihlola
+ndihlolisis
+ndihlalutya

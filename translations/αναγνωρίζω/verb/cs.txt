@@ -1,1 +1,3 @@
-["uznávat","rozpoznávat","identifikovat"]
+uznávat
+rozpoznávat
+identifikovat

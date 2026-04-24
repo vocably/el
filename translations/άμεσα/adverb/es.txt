@@ -1,1 +1,2 @@
-["directamente","inmediatamente"]
+directamente
+inmediatamente

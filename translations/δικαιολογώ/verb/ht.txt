@@ -1,1 +1,3 @@
-["jistifye","eskize","prouve"]
+jistifye
+eskize
+prouve

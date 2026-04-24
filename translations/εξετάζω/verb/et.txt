@@ -1,1 +1,3 @@
-["uurima","kontrollima","eksamineerima"]
+uurima
+kontrollima
+eksamineerima

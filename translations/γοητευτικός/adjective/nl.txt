@@ -1,1 +1,2 @@
-["charmant","fascinerend"]
+charmant
+fascinerend

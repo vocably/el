@@ -1,1 +1,2 @@
-["charmant","séduisant"]
+charmant
+séduisant

@@ -1,1 +1,4 @@
-["raspoloženje","namjera","dostupnost","aranžman"]
+raspoloženje
+namjera
+dostupnost
+aranžman

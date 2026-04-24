@@ -1,1 +1,4 @@
-["isimo","injongo","ukuhlinzekwa","ukulungiselela"]
+isimo
+injongo
+ukuhlinzekwa
+ukulungiselela

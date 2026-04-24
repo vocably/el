@@ -1,1 +1,2 @@
-["ringkes","cekak"]
+ringkes
+cekak

@@ -1,1 +1,3 @@
-["tawize","wijde","opdrage"]
+tawize
+wijde
+opdrage

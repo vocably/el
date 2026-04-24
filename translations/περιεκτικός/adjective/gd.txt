@@ -1,1 +1,2 @@
-["goirid","dùmhlachd"]
+goirid
+dùmhlachd

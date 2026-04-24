@@ -1,1 +1,3 @@
-["suriin","eksaminin","tingnan"]
+suriin
+eksaminin
+tingnan

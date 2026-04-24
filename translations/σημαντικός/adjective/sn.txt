@@ -1,1 +1,2 @@
-["chinokosha","chikuru"]
+chinokosha
+chikuru

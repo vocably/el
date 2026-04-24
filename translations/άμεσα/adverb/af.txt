@@ -1,1 +1,2 @@
-["onmiddellik","direk"]
+onmiddellik
+direk

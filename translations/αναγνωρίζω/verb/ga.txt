@@ -1,1 +1,3 @@
-["aithním","admhaím","eolaim"]
+aithním
+admhaím
+eolaim

@@ -1,1 +1,2 @@
-["varkár","aðgæslusamur"]
+varkár
+aðgæslusamur

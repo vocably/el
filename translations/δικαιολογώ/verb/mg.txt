@@ -1,1 +1,3 @@
-["manamarina","manazava","mampiseho"]
+manamarina
+manazava
+mampiseho

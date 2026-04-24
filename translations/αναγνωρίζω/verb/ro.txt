@@ -1,1 +1,3 @@
-["recunosc","identific","admit"]
+recunosc
+identific
+admit

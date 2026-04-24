@@ -1,1 +1,3 @@
-["justifikoj","ar syetoj","justifikoj shpenzimet"]
+justifikoj
+ar syetoj
+justifikoj shpenzimet

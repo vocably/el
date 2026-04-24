@@ -1,1 +1,2 @@
-["ragu-ragu","bimbang"]
+ragu-ragu
+bimbang

@@ -1,1 +1,2 @@
-["dìreach","sa bhad"]
+dìreach
+sa bhad

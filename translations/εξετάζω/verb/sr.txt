@@ -1,1 +1,3 @@
-["ispitivati","pregledati","proveravati"]
+ispitivati
+pregledati
+proveravati

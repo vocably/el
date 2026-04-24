@@ -1,1 +1,3 @@
-["etsa mabaka","lokafatsa","paka"]
+etsa mabaka
+lokafatsa
+paka

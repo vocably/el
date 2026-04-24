@@ -1,1 +1,2 @@
-["astana","eşik"]
+astana
+eşik

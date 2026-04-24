@@ -1,1 +1,4 @@
-["giúmar","meon","fonn","cur ar fáil"]
+giúmar
+meon
+fonn
+cur ar fáil

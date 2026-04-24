@@ -1,1 +1,3 @@
-["mendedikasikan","menghibahkan","membaktikan"]
+mendedikasikan
+menghibahkan
+membaktikan

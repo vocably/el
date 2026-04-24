@@ -1,1 +1,2 @@
-["go hindíreach","go neamhdhíreach"]
+go hindíreach
+go neamhdhíreach

@@ -1,1 +1,4 @@
-["disposition","humeur","volonté","approvisionnement"]
+disposition
+humeur
+volonté
+approvisionnement

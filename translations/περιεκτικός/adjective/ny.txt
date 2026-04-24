@@ -1,1 +1,2 @@
-["chidule","chachidule"]
+chidule
+chachidule

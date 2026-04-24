@@ -1,1 +1,2 @@
-["cauteloso","atento"]
+cauteloso
+atento

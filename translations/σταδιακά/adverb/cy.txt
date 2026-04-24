@@ -1,1 +1,3 @@
-["yn raddol","fesul cam","yn araf"]
+yn raddol
+fesul cam
+yn araf

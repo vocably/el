@@ -1,1 +1,2 @@
-["tillräckligt","tillfredsställande"]
+tillräckligt
+tillfredsställande

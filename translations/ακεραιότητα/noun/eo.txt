@@ -1,1 +1,2 @@
-["kompleteco","integreco"]
+kompleteco
+integreco

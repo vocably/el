@@ -1,1 +1,3 @@
-["canlyniad","effaith","deilliann"]
+canlyniad
+effaith
+deilliann

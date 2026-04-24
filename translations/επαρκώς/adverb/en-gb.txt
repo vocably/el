@@ -1,1 +1,2 @@
-["adequately","sufficiently"]
+adequately
+sufficiently

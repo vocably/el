@@ -1,1 +1,3 @@
-["ypač","specialiai","asmeniškai"]
+ypač
+specialiai
+asmeniškai

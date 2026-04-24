@@ -1,1 +1,3 @@
-["afsat","hellige","tilegne"]
+afsat
+hellige
+tilegne

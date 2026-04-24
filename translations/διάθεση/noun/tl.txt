@@ -1,1 +1,4 @@
-["kalooban","hangarin","paglalagay","pagsasaayos"]
+kalooban
+hangarin
+paglalagay
+pagsasaayos

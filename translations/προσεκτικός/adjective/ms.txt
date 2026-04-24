@@ -1,1 +1,2 @@
-["berhati-hati","teliti"]
+berhati-hati
+teliti

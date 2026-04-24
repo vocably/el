@@ -1,1 +1,2 @@
-["ora langsung","ora saceplakan"]
+ora langsung
+ora saceplakan

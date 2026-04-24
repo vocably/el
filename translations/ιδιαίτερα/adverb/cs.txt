@@ -1,1 +1,3 @@
-["zvláště","zejména","obzvláště"]
+zvláště
+zejména
+obzvláště

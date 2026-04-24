@@ -1,1 +1,2 @@
-["prag","început"]
+prag
+început

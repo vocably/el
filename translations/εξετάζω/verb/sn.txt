@@ -1,1 +1,3 @@
-["kuongorora","kubvunza","kuwongorora"]
+kuongorora
+kubvunza
+kuwongorora

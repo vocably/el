@@ -1,1 +1,3 @@
-["postupno","fazno","malo-pomalo"]
+postupno
+fazno
+malo-pomalo

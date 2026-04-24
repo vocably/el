@@ -1,1 +1,2 @@
-["pinabayaan","napabayaan"]
+pinabayaan
+napabayaan

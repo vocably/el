@@ -1,1 +1,2 @@
-["práh","začátek"]
+práh
+začátek

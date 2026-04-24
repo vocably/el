@@ -1,1 +1,3 @@
-["a examina","a cerceta","a controla"]
+a examina
+a cerceta
+a controla

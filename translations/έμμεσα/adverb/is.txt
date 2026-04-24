@@ -1,1 +1,2 @@
-["óbeint","ólétt"]
+óbeint
+ólétt

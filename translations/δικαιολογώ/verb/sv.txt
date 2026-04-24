@@ -1,1 +1,3 @@
-["ursäkta","motivera","styrka"]
+ursäkta
+motivera
+styrka

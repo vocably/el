@@ -1,1 +1,3 @@
-["szentelek","ajánlok","felajánlok"]
+szentelek
+ajánlok
+felajánlok

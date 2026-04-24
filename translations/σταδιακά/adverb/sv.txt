@@ -1,1 +1,3 @@
-["gradvis","etappvis","så småningom"]
+gradvis
+etappvis
+så småningom

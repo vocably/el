@@ -1,1 +1,3 @@
-["nəticə","səmərə","yekun"]
+nəticə
+səmərə
+yekun

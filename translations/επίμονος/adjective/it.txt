@@ -1,1 +1,2 @@
-["persistente","ostinato"]
+persistente
+ostinato

@@ -1,1 +1,2 @@
-["zanedbávať","zanedbať"]
+zanedbávať
+zanedbať

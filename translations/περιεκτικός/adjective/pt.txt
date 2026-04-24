@@ -1,1 +1,2 @@
-["abrangente","conciso"]
+abrangente
+conciso

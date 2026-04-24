@@ -1,1 +1,2 @@
-["neglekti","forlasi"]
+neglekti
+forlasi

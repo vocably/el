@@ -1,1 +1,4 @@
-["umore","disposizione","intenzione","vendita"]
+umore
+disposizione
+intenzione
+vendita

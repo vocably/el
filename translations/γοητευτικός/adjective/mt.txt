@@ -1,1 +1,2 @@
-["affaxxinanti","seħra"]
+affaxxinanti
+seħra

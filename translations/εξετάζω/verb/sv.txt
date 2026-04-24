@@ -1,1 +1,3 @@
-["undersöka","förhöra","kontrollera"]
+undersöka
+förhöra
+kontrollera

@@ -1,1 +1,3 @@
-["yn arbennig","yn benodol","yn breifat"]
+yn arbennig
+yn benodol
+yn breifat

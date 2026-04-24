@@ -1,1 +1,2 @@
-["fupi","kamili"]
+fupi
+kamili

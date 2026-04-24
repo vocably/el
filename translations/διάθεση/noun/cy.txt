@@ -1,1 +1,4 @@
-["hwyl","ysbryd","darpariaeth","trefniant"]
+hwyl
+ysbryd
+darpariaeth
+trefniant

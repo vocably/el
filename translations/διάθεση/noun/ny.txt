@@ -1,1 +1,4 @@
-["mkhalidwe","maganizo","cholinga","kukonza"]
+mkhalidwe
+maganizo
+cholinga
+kukonza

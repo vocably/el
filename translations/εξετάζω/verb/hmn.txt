@@ -1,1 +1,3 @@
-["kuaj xyuas","soj ntsuam","tshuaj xyuas"]
+kuaj xyuas
+soj ntsuam
+tshuaj xyuas

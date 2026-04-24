@@ -1,1 +1,2 @@
-["lava lelei","talafeagai"]
+lava lelei
+talafeagai

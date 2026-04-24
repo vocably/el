@@ -1,1 +1,3 @@
-["pregledovati","raziskovati","izpraševati"]
+pregledovati
+raziskovati
+izpraševati

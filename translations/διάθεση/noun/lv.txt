@@ -1,1 +1,4 @@
-["noskaņojums","garastāvoklis","nodoms","izvietošana"]
+noskaņojums
+garastāvoklis
+nodoms
+izvietošana

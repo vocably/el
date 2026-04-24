@@ -1,1 +1,3 @@
-["mboko-mboko","alon-alon","sethithik mbaka sethithik"]
+mboko-mboko
+alon-alon
+sethithik mbaka sethithik

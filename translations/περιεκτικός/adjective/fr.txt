@@ -1,1 +1,2 @@
-["complet","succinct"]
+complet
+succinct

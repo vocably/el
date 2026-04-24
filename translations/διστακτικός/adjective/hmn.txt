@@ -1,1 +1,2 @@
-["tsis kam","tsis txiav txim siab"]
+tsis kam
+tsis txiav txim siab

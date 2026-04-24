@@ -1,1 +1,3 @@
-["gusuzuma","kubaza","gupima"]
+gusuzuma
+kubaza
+gupima

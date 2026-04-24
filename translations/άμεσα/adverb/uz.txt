@@ -1,1 +1,2 @@
-["bevosita","darhol"]
+bevosita
+darhol

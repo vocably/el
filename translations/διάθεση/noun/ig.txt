@@ -1,1 +1,4 @@
-["ọnọdụ uche","ebumnuche","inye","nhazi"]
+ọnọdụ uche
+ebumnuche
+inye
+nhazi

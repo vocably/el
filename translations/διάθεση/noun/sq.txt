@@ -1,1 +1,4 @@
-["gjendje shpirtërore","dispozicion","qejf","furnizim"]
+gjendje shpirtërore
+dispozicion
+qejf
+furnizim

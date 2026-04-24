@@ -1,1 +1,2 @@
-["doğrudan","hemen"]
+doğrudan
+hemen

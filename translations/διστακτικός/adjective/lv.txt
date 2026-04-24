@@ -1,1 +1,2 @@
-["svārstīgs","neizlēmīgs"]
+svārstīgs
+neizlēmīgs

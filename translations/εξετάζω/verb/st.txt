@@ -1,1 +1,3 @@
-["hlahloba","etsa tlhahlobo","sheba"]
+hlahloba
+etsa tlhahlobo
+sheba

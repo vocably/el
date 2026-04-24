@@ -1,1 +1,2 @@
-["tohetohe","kūare"]
+tohetohe
+kūare

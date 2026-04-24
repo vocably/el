@@ -1,1 +1,3 @@
-["egzamine","teste","tcheke"]
+egzamine
+teste
+tcheke

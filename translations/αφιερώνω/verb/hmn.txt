@@ -1,1 +1,3 @@
-["mob","muab fij","pab"]
+mob
+muab fij
+pab

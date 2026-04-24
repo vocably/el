@@ -1,1 +1,4 @@
-["Stëmmung","Laun","Dispositioun","Bereetschaft"]
+Stëmmung
+Laun
+Dispositioun
+Bereetschaft

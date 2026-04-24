@@ -1,1 +1,2 @@
-["sjarmant","oantreklik"]
+sjarmant
+oantreklik

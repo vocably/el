@@ -1,1 +1,3 @@
-["saeutik-saeutik","lalaunan","bertahap"]
+saeutik-saeutik
+lalaunan
+bertahap

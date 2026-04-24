@@ -1,1 +1,4 @@
-["mafungiro","chinangwa","kugovera","kurongedza"]
+mafungiro
+chinangwa
+kugovera
+kurongedza

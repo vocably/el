@@ -1,1 +1,4 @@
-["mieliala","halu","saatavuus","järjestely"]
+mieliala
+halu
+saatavuus
+järjestely

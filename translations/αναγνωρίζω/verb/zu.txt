@@ -1,1 +1,3 @@
-["ngiyabona","ngiyavuma","ngiyazi"]
+ngiyabona
+ngiyavuma
+ngiyazi

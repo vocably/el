@@ -1,1 +1,3 @@
-["tik apre tik","pa etap","piti piti"]
+tik apre tik
+pa etap
+piti piti

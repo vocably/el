@@ -1,1 +1,3 @@
-["pangatwiranan","bigyang-katwiran","patunayan"]
+pangatwiranan
+bigyang-katwiran
+patunayan

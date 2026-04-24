@@ -1,1 +1,2 @@
-["conciso","sintetico"]
+conciso
+sintetico

@@ -1,1 +1,3 @@
-["haqq qazandırmaq","əsaslandırmaq","təsdiqləmək"]
+haqq qazandırmaq
+əsaslandırmaq
+təsdiqləmək

@@ -1,1 +1,2 @@
-["cuprinzător","concis"]
+cuprinzător
+concis

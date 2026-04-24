@@ -1,1 +1,2 @@
-["proksimume","preskaŭ"]
+proksimume
+preskaŭ

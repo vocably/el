@@ -1,1 +1,3 @@
-["đặc biệt","riêng","cá nhân"]
+đặc biệt
+riêng
+cá nhân

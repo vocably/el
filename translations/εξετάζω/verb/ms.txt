@@ -1,1 +1,3 @@
-["menyiasat","memeriksa","meneliti"]
+menyiasat
+memeriksa
+meneliti

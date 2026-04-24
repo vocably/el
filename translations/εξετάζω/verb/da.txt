@@ -1,1 +1,3 @@
-["undersøge","eksaminere","kontrollere"]
+undersøge
+eksaminere
+kontrollere

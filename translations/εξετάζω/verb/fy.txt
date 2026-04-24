@@ -1,1 +1,3 @@
-["ûndersykje","kontrolearje","neisjen"]
+ûndersykje
+kontrolearje
+neisjen

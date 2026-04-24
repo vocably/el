@@ -1,1 +1,2 @@
-["prepoznajem","priznajem"]
+prepoznajem
+priznajem

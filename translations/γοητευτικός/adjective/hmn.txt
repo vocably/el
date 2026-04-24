@@ -1,1 +1,2 @@
-["ntxim nyiam","zoo nkauj"]
+ntxim nyiam
+zoo nkauj

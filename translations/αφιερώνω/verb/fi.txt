@@ -1,1 +1,3 @@
-["omistautua","pyhittää","omistaa"]
+omistautua
+pyhittää
+omistaa

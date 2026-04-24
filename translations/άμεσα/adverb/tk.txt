@@ -1,1 +1,2 @@
-["gönümel","derrew"]
+gönümel
+derrew

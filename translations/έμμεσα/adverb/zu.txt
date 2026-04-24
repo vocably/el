@@ -1,1 +1,2 @@
-["ngokungaqondile","ngokungathile"]
+ngokungaqondile
+ngokungathile

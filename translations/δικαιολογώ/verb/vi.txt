@@ -1,1 +1,3 @@
-["biện minh","giải thích","chứng minh"]
+biện minh
+giải thích
+chứng minh

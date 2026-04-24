@@ -1,1 +1,3 @@
-["besonders","insbesondere","persönlich"]
+besonders
+insbesondere
+persönlich

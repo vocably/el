@@ -1,1 +1,3 @@
-["pakāpeniski","pamazām","pa soļiem"]
+pakāpeniski
+pamazām
+pa soļiem

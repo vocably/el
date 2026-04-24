@@ -1,1 +1,4 @@
-["disposição","humor","vontade","colocação"]
+disposição
+humor
+vontade
+colocação

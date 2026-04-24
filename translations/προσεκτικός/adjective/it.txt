@@ -1,1 +1,2 @@
-["attento","prudente"]
+attento
+prudente

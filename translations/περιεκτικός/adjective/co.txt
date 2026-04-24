@@ -1,1 +1,2 @@
-["cuncisu","succintu"]
+cuncisu
+succintu

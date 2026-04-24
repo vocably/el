@@ -1,1 +1,2 @@
-["sojlo","komenco"]
+sojlo
+komenco

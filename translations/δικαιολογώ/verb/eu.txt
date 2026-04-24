@@ -1,1 +1,3 @@
-["justifikatu","arrazoitu","frogatu"]
+justifikatu
+arrazoitu
+frogatu

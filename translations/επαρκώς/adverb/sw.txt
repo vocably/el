@@ -1,1 +1,2 @@
-["kutosha","ipasavyo"]
+kutosha
+ipasavyo

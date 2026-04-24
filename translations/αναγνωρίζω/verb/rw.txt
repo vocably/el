@@ -1,1 +1,3 @@
-["menya","kwemera","kumenya"]
+menya
+kwemera
+kumenya

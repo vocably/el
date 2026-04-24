@@ -1,1 +1,3 @@
-["kwambiri","makamaka","payekha"]
+kwambiri
+makamaka
+payekha

@@ -1,1 +1,2 @@
-["pataki","tobi"]
+pataki
+tobi

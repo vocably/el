@@ -1,1 +1,2 @@
-["eżitanti","dubjuż"]
+eżitanti
+dubjuż

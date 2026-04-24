@@ -1,1 +1,3 @@
-["kiểm tra","xem xét","khám bệnh"]
+kiểm tra
+xem xét
+khám bệnh

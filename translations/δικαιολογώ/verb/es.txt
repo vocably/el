@@ -1,1 +1,3 @@
-["justificar","excusar","comprobar"]
+justificar
+excusar
+comprobar

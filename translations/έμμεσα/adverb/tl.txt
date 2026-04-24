@@ -1,1 +1,2 @@
-["hindi direkta","hindi tuwiran"]
+hindi direkta
+hindi tuwiran

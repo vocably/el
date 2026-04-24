@@ -1,1 +1,2 @@
-["eshik osti","boshlanish"]
+eshik osti
+boshlanish

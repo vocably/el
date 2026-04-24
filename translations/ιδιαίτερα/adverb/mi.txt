@@ -1,1 +1,3 @@
-["rawa","motuhake","ake"]
+rawa
+motuhake
+ake

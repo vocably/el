@@ -1,1 +1,2 @@
-["indirekt","duerch d'Bank"]
+indirekt
+duerch d'Bank

@@ -1,1 +1,3 @@
-["særlig","spesielt","personlig"]
+særlig
+spesielt
+personlig

@@ -1,1 +1,2 @@
-["ongabaza","onqikazayo"]
+ongabaza
+onqikazayo

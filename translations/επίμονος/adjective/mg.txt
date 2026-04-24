@@ -1,1 +1,2 @@
-["mahatoky","miraikitra"]
+mahatoky
+miraikitra

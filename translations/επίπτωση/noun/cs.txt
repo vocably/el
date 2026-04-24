@@ -1,1 +1,2 @@
-["dopad","následek"]
+dopad
+následek

@@ -1,1 +1,3 @@
-["besonder","veral","privaat"]
+besonder
+veral
+privaat

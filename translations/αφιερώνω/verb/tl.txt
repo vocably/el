@@ -1,1 +1,3 @@
-["iaalay","maglaan","ihandog"]
+iaalay
+maglaan
+ihandog

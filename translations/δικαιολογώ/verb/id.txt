@@ -1,1 +1,3 @@
-["membenarkan","memaafkan","menjelaskan"]
+membenarkan
+memaafkan
+menjelaskan

@@ -1,1 +1,4 @@
-["sikep","niat","sumadiakeun","tata"]
+sikep
+niat
+sumadiakeun
+tata

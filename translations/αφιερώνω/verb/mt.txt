@@ -1,1 +1,3 @@
-["nidded","offert","ikkonsagra"]
+nidded
+offert
+ikkonsagra

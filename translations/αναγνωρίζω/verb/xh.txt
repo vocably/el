@@ -1,1 +1,3 @@
-["ndiyazi","ndiyavuma","ndiyaqaphela"]
+ndiyazi
+ndiyavuma
+ndiyaqaphela

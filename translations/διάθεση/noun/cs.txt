@@ -1,1 +1,4 @@
-["nálada","chuť","dispozice","rozvržení"]
+nálada
+chuť
+dispozice
+rozvržení

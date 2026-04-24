@@ -1,1 +1,3 @@
-["izskatīt","pārbaudīt","eksaminēt"]
+izskatīt
+pārbaudīt
+eksaminēt

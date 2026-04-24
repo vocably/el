@@ -1,1 +1,3 @@
-["mengakui","mengenali","mengiktiraf"]
+mengakui
+mengenali
+mengiktiraf

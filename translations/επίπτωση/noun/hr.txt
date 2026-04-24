@@ -1,1 +1,2 @@
-["posljedica","utjecaj"]
+posljedica
+utjecaj

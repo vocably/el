@@ -1,1 +1,3 @@
-["kancane kancane","ngezigaba","ngokwezinyathelo"]
+kancane kancane
+ngezigaba
+ngokwezinyathelo

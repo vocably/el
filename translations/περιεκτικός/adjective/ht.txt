@@ -1,1 +1,2 @@
-["konpreyansif","konsi"]
+konpreyansif
+konsi

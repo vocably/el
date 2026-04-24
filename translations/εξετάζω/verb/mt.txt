@@ -1,1 +1,3 @@
-["neżamina","nitħaddet","nivverifika"]
+neżamina
+nitħaddet
+nivverifika

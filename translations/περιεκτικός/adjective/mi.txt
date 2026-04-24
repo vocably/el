@@ -1,1 +1,2 @@
-["whakapoto","kōrero poto"]
+whakapoto
+kōrero poto

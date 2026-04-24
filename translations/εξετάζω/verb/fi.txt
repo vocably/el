@@ -1,1 +1,3 @@
-["tutkia","tarkastaa","kuunnella"]
+tutkia
+tarkastaa
+kuunnella

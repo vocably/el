@@ -1,1 +1,4 @@
-["hangulat","kedv","szándék","elrendezés"]
+hangulat
+kedv
+szándék
+elrendezés

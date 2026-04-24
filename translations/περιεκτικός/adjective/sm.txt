@@ -1,1 +1,2 @@
-["puupuu","aotelega"]
+puupuu
+aotelega

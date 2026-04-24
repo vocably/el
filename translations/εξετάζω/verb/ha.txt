@@ -1,1 +1,3 @@
-["bincika","gwada","duba"]
+bincika
+gwada
+duba

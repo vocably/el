@@ -1,1 +1,2 @@
-["žavus","patrauklus"]
+žavus
+patrauklus

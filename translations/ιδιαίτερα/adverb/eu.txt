@@ -1,1 +1,3 @@
-["bereziki","batez ere","zehatz-mehatz"]
+bereziki
+batez ere
+zehatz-mehatz

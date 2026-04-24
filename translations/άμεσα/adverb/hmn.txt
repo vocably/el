@@ -1,1 +1,2 @@
-["tam sim ntawd","ncaj qha"]
+tam sim ntawd
+ncaj qha

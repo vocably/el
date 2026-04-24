@@ -1,1 +1,2 @@
-["fermecător","atrăgător"]
+fermecător
+atrăgător

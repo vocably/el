@@ -1,1 +1,3 @@
-["especialment","particularment","privadament"]
+especialment
+particularment
+privadament

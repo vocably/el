@@ -1,1 +1,3 @@
-["pib","yog vim","tso cai"]
+pib
+yog vim
+tso cai

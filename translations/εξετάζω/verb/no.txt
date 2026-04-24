@@ -1,1 +1,3 @@
-["undersøke","eksaminere","sjekke"]
+undersøke
+eksaminere
+sjekke

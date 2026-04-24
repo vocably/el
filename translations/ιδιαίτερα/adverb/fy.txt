@@ -1,1 +1,3 @@
-["benammen","yn it bysûnder","persoanlik"]
+benammen
+yn it bysûnder
+persoanlik

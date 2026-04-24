@@ -1,1 +1,3 @@
-["gutanga","kwitanga","kwegurira"]
+gutanga
+kwitanga
+kwegurira

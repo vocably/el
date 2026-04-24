@@ -1,1 +1,3 @@
-["tūhurahura","uiui","whakaora"]
+tūhurahura
+uiui
+whakaora

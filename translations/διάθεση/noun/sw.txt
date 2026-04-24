@@ -1,1 +1,4 @@
-["hali","nia","mpangilio","utoaji"]
+hali
+nia
+mpangilio
+utoaji

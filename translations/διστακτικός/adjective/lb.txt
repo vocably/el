@@ -1,1 +1,2 @@
-["zögernd","ongeschloss"]
+zögernd
+ongeschloss

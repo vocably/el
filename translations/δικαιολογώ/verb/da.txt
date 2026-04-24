@@ -1,1 +1,3 @@
-["retfærdiggøre","begrunde","dokumentere"]
+retfærdiggøre
+begrunde
+dokumentere

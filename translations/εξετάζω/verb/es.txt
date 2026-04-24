@@ -1,1 +1,3 @@
-["examinar","estudiar","reconocer"]
+examinar
+estudiar
+reconocer

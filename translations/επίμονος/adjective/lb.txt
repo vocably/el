@@ -1,1 +1,2 @@
-["hartnäckeg","persistent"]
+hartnäckeg
+persistent

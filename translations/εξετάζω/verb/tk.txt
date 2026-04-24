@@ -1,1 +1,3 @@
-["derňemek","synag etmek","barlamak"]
+derňemek
+synag etmek
+barlamak

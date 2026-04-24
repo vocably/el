@@ -1,1 +1,4 @@
-["hal","meyl","bexşîn","rêkxistin"]
+hal
+meyl
+bexşîn
+rêkxistin

@@ -1,1 +1,2 @@
-["resistencia","resiliencia"]
+resistencia
+resiliencia

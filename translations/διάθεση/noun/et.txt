@@ -1,1 +1,4 @@
-["tuju","meeleolu","dispositsioon","käsutus"]
+tuju
+meeleolu
+dispositsioon
+käsutus

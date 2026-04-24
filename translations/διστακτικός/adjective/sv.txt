@@ -1,1 +1,2 @@
-["tveksam","obeslutsam"]
+tveksam
+obeslutsam

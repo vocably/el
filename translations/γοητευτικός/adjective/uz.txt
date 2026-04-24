@@ -1,1 +1,2 @@
-["maftunkor","jozibali"]
+maftunkor
+jozibali

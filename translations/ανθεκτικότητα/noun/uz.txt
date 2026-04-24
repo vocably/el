@@ -1,1 +1,2 @@
-["chidam","mustahkamlik"]
+chidam
+mustahkamlik

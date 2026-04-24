@@ -1,1 +1,2 @@
-["kynnys","alku"]
+kynnys
+alku

@@ -1,1 +1,4 @@
-["humoro","dispono","emo","aranĝo"]
+humoro
+dispono
+emo
+aranĝo

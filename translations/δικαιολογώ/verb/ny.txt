@@ -1,1 +1,3 @@
-["kulungamitsa","kufotokoza","kutsimikizira"]
+kulungamitsa
+kufotokoza
+kutsimikizira

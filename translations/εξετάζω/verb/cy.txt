@@ -1,1 +1,3 @@
-["archwilio","holiadur","gwirio"]
+archwilio
+holiadur
+gwirio

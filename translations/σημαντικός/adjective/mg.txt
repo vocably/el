@@ -1,1 +1,2 @@
-["zava-dehibe","lehibe"]
+zava-dehibe
+lehibe

@@ -1,1 +1,2 @@
-["hezi","i pavendosur"]
+hezi
+i pavendosur

@@ -1,1 +1,2 @@
-["faʻalo","amataga"]
+faʻalo
+amataga

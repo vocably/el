@@ -1,1 +1,3 @@
-["ndinopira","ndinotsaurira","ndinopa"]
+ndinopira
+ndinotsaurira
+ndinopa

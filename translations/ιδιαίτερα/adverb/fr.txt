@@ -1,1 +1,3 @@
-["particulièrement","spécialement","en privé"]
+particulièrement
+spécialement
+en privé

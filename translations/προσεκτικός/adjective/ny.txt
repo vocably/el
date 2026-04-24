@@ -1,1 +1,2 @@
-["wochenjera","tcheru"]
+wochenjera
+tcheru

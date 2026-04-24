@@ -1,1 +1,2 @@
-["għatba","limitu"]
+għatba
+limitu

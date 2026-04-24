@@ -1,1 +1,2 @@
-["vernoléissegen","veronschëllegen"]
+vernoléissegen
+veronschëllegen

@@ -1,1 +1,2 @@
-["oqibat","ta'sir"]
+oqibat
+ta'sir

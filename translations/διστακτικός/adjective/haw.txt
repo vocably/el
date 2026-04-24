@@ -1,1 +1,2 @@
-["kānalua","hoʻokaʻulua"]
+kānalua
+hoʻokaʻulua

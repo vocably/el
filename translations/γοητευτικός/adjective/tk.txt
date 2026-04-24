@@ -1,1 +1,2 @@
-["özüne çekiji","söýli"]
+özüne çekiji
+söýli

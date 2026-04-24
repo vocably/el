@@ -1,1 +1,4 @@
-["nuotaika","polinkis","išdėstymas","pardavimas"]
+nuotaika
+polinkis
+išdėstymas
+pardavimas

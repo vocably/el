@@ -1,1 +1,2 @@
-["duursaamheid","veerkragtigheid"]
+duursaamheid
+veerkragtigheid

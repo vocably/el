@@ -1,1 +1,3 @@
-["skúmať","vyšetrovať","prehliadať"]
+skúmať
+vyšetrovať
+prehliadať

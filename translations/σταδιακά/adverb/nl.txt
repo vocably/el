@@ -1,1 +1,3 @@
-["geleidelijk","langzamerhand","stapsgewijs"]
+geleidelijk
+langzamerhand
+stapsgewijs

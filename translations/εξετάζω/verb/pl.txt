@@ -1,1 +1,3 @@
-["badać","egzaminować","sprawdzać"]
+badać
+egzaminować
+sprawdzać

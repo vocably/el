@@ -1,1 +1,3 @@
-["tiomnaím","caitheann mé","taiscím"]
+tiomnaím
+caitheann mé
+taiscím

@@ -1,1 +1,4 @@
-["Stimmung","Laune","Bereitstellung","Anordnung"]
+Stimmung
+Laune
+Bereitstellung
+Anordnung

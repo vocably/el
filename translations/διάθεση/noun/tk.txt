@@ -1,1 +1,4 @@
-["keýpi","niýeti","höwesi","ýerleşdirme"]
+keýpi
+niýeti
+höwesi
+ýerleşdirme

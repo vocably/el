@@ -1,1 +1,3 @@
-["kwado","gosi","kọwaa"]
+kwado
+gosi
+kọwaa

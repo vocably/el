@@ -1,1 +1,3 @@
-["justific","motivez","dovedesc"]
+justific
+motivez
+dovedesc

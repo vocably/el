@@ -1,1 +1,2 @@
-["omedelbart","direkt"]
+omedelbart
+direkt

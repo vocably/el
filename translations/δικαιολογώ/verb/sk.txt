@@ -1,1 +1,3 @@
-["ospravedlňovať","odôvodňovať","doložiť"]
+ospravedlňovať
+odôvodňovať
+doložiť

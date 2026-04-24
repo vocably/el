@@ -1,1 +1,2 @@
-["slieksnis","sākums"]
+slieksnis
+sākums

@@ -1,1 +1,2 @@
-["ellenállás","rugalmasság"]
+ellenállás
+rugalmasság

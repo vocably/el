@@ -1,1 +1,2 @@
-["eheys","loukkaamattomuus"]
+eheys
+loukkaamattomuus

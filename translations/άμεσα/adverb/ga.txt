@@ -1,1 +1,2 @@
-["láithreach","díreach"]
+láithreach
+díreach

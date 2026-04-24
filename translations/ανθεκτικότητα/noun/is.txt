@@ -1,1 +1,2 @@
-["þol","seigla"]
+þol
+seigla

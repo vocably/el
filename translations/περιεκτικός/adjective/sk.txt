@@ -1,1 +1,2 @@
-["výstižný","stručný"]
+výstižný
+stručný

@@ -1,1 +1,2 @@
-["huolellinen","varovainen"]
+huolellinen
+varovainen

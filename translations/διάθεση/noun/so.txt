@@ -1,1 +1,4 @@
-["xaalad maskaxeed","rabitaan","bixin","habayn"]
+xaalad maskaxeed
+rabitaan
+bixin
+habayn

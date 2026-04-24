@@ -1,1 +1,3 @@
-["ibisubizo","ingaruka","umusaruro"]
+ibisubizo
+ingaruka
+umusaruro

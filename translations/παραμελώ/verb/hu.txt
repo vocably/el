@@ -1,1 +1,2 @@
-["elhanyagolok","nem törődöm"]
+elhanyagolok
+nem törődöm

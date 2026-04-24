@@ -1,1 +1,4 @@
-["skapi","lunderni","vilji","ráðstöfun"]
+skapi
+lunderni
+vilji
+ráðstöfun

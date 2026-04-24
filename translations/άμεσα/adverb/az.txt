@@ -1,1 +1,2 @@
-["birbaşa","dərhal"]
+birbaşa
+dərhal

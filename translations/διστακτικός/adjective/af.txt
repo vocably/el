@@ -1,1 +1,2 @@
-["huiwerig","besluiteloos"]
+huiwerig
+besluiteloos

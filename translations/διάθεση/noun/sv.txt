@@ -1,1 +1,4 @@
-["humör","lust","tillhandahållande","disposition"]
+humör
+lust
+tillhandahållande
+disposition

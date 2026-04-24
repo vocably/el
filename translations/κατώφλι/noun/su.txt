@@ -1,1 +1,2 @@
-["lawang","mimitian"]
+lawang
+mimitian

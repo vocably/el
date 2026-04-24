@@ -1,1 +1,3 @@
-["gradualmente","paulatinamente","por etapas"]
+gradualmente
+paulatinamente
+por etapas

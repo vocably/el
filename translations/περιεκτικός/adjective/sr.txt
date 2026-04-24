@@ -1,1 +1,2 @@
-["sadržajan","jezgrovit"]
+sadržajan
+jezgrovit

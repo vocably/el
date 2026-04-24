@@ -1,1 +1,4 @@
-["wairua","hiahia","whakaritenga","tukunga"]
+wairua
+hiahia
+whakaritenga
+tukunga

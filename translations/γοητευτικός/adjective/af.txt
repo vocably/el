@@ -1,1 +1,2 @@
-["aantreklik","bekoorlik"]
+aantreklik
+bekoorlik

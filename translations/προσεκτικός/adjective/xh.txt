@@ -1,1 +1,2 @@
-["ulumkile","qaphela"]
+ulumkile
+qaphela

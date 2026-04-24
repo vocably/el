@@ -1,1 +1,3 @@
-["reconheço","identifico","admito"]
+reconheço
+identifico
+admito

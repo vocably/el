@@ -1,1 +1,2 @@
-["cuirim ina luí","áitim"]
+cuirim ina luí
+áitim

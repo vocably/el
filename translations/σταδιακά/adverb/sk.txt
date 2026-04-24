@@ -1,1 +1,3 @@
-["postupne","fázovo","pomaly"]
+postupne
+fázovo
+pomaly

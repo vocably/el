@@ -1,1 +1,3 @@
-["haklı çıkarmak","açıklamak","belgelemek"]
+haklı çıkarmak
+açıklamak
+belgelemek

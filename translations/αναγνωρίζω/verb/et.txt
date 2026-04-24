@@ -1,1 +1,3 @@
-["tuvastama","tunnistama","aktsepteerima"]
+tuvastama
+tunnistama
+aktsepteerima

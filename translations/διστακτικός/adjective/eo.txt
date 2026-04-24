@@ -1,1 +1,2 @@
-["hezitema","nedecidema"]
+hezitema
+nedecidema

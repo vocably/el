@@ -1,1 +1,4 @@
-["bui","stemming","voorneme","beskikking"]
+bui
+stemming
+voorneme
+beskikking

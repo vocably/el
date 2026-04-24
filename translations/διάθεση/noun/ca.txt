@@ -1,1 +1,4 @@
-["disposició","humor","intenció","distribució"]
+disposició
+humor
+intenció
+distribució

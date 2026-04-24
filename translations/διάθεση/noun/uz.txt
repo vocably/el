@@ -1,1 +1,4 @@
-["kayfiyat","istak","joylashtirish","tartibga solish"]
+kayfiyat
+istak
+joylashtirish
+tartibga solish

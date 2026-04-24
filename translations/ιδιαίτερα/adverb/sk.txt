@@ -1,1 +1,3 @@
-["obzvlášť","najmä","osobitne"]
+obzvlášť
+najmä
+osobitne

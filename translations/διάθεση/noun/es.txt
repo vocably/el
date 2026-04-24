@@ -1,1 +1,4 @@
-["ánimo","disposición","humor","venta"]
+ánimo
+disposición
+humor
+venta

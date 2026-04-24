@@ -1,1 +1,2 @@
-["omfattende","kortfattet"]
+omfattende
+kortfattet

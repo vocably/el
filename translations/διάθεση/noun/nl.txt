@@ -1,1 +1,4 @@
-["stemming","humeur","beschikking","aanleg"]
+stemming
+humeur
+beschikking
+aanleg

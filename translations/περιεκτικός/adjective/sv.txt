@@ -1,1 +1,2 @@
-["omfattande","kortfattad"]
+omfattande
+kortfattad

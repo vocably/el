@@ -1,1 +1,3 @@
-["stadichoan","stadia","sa njonkenlytsen"]
+stadichoan
+stadia
+sa njonkenlytsen

@@ -1,1 +1,2 @@
-["Uimara","Ustahimilivu"]
+Uimara
+Ustahimilivu

@@ -1,1 +1,3 @@
-["felismer","elismer","azonosít"]
+felismer
+elismer
+azonosít

@@ -1,1 +1,2 @@
-["sức bền","khả năng phục hồi"]
+sức bền
+khả năng phục hồi

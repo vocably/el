@@ -1,1 +1,2 @@
-["neodločen","obotavljiv"]
+neodločen
+obotavljiv

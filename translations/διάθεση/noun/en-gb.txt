@@ -1,1 +1,4 @@
-["mood","disposition","provision","arrangement"]
+mood
+disposition
+provision
+arrangement

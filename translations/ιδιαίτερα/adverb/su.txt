@@ -1,1 +1,3 @@
-["pisan","hususna","sacara pribadi"]
+pisan
+hususna
+sacara pribadi

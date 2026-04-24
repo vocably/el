@@ -1,1 +1,2 @@
-["megvizsgálom","kikérdezem"]
+megvizsgálom
+kikérdezem

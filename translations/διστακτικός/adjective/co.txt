@@ -1,1 +1,2 @@
-["esitante","irresolutu"]
+esitante
+irresolutu

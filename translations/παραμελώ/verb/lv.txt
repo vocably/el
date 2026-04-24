@@ -1,1 +1,2 @@
-["pamest novārtā","nevērība"]
+pamest novārtā
+nevērība

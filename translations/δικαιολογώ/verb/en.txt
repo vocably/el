@@ -1,1 +1,3 @@
-["justify","explain","account for"]
+justify
+explain
+account for

@@ -1,1 +1,2 @@
-["ukunganaki","ukudebesela"]
+ukunganaki
+ukudebesela

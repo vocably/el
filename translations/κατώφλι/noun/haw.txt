@@ -1,1 +1,2 @@
-["puka","ka paepae"]
+puka
+ka paepae

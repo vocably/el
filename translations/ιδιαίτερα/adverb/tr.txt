@@ -1,1 +1,3 @@
-["özellikle","bilhassa","şahsen"]
+özellikle
+bilhassa
+şahsen

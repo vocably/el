@@ -1,1 +1,3 @@
-["palaipsniui","po truputį","laipsniškai"]
+palaipsniui
+po truputį
+laipsniškai

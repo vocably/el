@@ -1,1 +1,2 @@
-["ua zoo","ceev faj"]
+ua zoo
+ceev faj

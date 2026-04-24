@@ -1,1 +1,2 @@
-["imediat","direct"]
+imediat
+direct

@@ -1,1 +1,2 @@
-["duurzaamheid","veerkracht"]
+duurzaamheid
+veerkracht

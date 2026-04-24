@@ -1,1 +1,3 @@
-["banget","khusus","pribadi"]
+banget
+khusus
+pribadi

@@ -1,1 +1,3 @@
-["kakhulu","ngokukhethekileyo","ngasese"]
+kakhulu
+ngokukhethekileyo
+ngasese

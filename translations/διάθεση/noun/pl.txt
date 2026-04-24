@@ -1,1 +1,4 @@
-["nastrój","chęć","dyspozycja","rozporządzenie"]
+nastrój
+chęć
+dyspozycja
+rozporządzenie

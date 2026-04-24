@@ -1,1 +1,2 @@
-["hikandi","óákveðinn"]
+hikandi
+óákveðinn

@@ -1,1 +1,2 @@
-["slenkstis","pradžia"]
+slenkstis
+pradžia

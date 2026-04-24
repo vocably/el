@@ -1,1 +1,2 @@
-["ietilpīgs","kodolīgs"]
+ietilpīgs
+kodolīgs

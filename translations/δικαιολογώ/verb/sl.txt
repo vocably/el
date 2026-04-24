@@ -1,1 +1,3 @@
-["opravičevati","upravičevati","dokazovati"]
+opravičevati
+upravičevati
+dokazovati

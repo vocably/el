@@ -1,1 +1,3 @@
-["n'ihi","mpụta","ọrụ"]
+n'ihi
+mpụta
+ọrụ

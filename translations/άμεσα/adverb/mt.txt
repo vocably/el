@@ -1,1 +1,2 @@
-["direttament","minnufih"]
+direttament
+minnufih

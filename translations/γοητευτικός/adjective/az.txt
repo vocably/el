@@ -1,1 +1,2 @@
-["cazibədar","füsunkar"]
+cazibədar
+füsunkar

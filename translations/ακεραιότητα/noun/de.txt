@@ -1,1 +1,2 @@
-["Integrität","Vollständigkeit"]
+Integrität
+Vollständigkeit

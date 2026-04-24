@@ -1,1 +1,2 @@
-["hésitant","indécis"]
+hésitant
+indécis

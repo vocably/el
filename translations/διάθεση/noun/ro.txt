@@ -1,1 +1,4 @@
-["dispoziție","stare de spirit","voință","aranjament"]
+dispoziție
+stare de spirit
+voință
+aranjament

@@ -1,1 +1,3 @@
-["gu h-àraidh","gu sònraichte","leis fhèin"]
+gu h-àraidh
+gu sònraichte
+leis fhèin

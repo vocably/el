@@ -1,1 +1,3 @@
-["terutamanya","khususnya","secara peribadi"]
+terutamanya
+khususnya
+secara peribadi

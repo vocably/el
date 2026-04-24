@@ -1,1 +1,3 @@
-["neliti","nguji","mriksa"]
+neliti
+nguji
+mriksa

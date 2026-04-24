@@ -1,1 +1,2 @@
-["hudolus","deniadol"]
+hudolus
+deniadol

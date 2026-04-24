@@ -1,1 +1,2 @@
-["umbral","entrada"]
+umbral
+entrada

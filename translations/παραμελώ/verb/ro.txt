@@ -1,1 +1,2 @@
-["neglijez","părăsesc"]
+neglijez
+părăsesc

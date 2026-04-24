@@ -1,1 +1,3 @@
-["eriti","iseäranis","privaatselt"]
+eriti
+iseäranis
+privaatselt

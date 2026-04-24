@@ -1,1 +1,4 @@
-["humør","stemning","vilje","salg"]
+humør
+stemning
+vilje
+salg

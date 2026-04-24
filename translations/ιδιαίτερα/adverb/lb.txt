@@ -1,1 +1,2 @@
-["besonnesch","perséinlech"]
+besonnesch
+perséinlech

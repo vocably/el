@@ -1,1 +1,2 @@
-["girîng","giring"]
+girîng
+giring

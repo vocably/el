@@ -1,1 +1,3 @@
-["zkoumat","vyšetřovat","prohlížet"]
+zkoumat
+vyšetřovat
+prohlížet

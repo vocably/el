@@ -1,1 +1,2 @@
-["tieši","nekavējoties"]
+tieši
+nekavējoties

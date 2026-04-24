@@ -1,1 +1,3 @@
-["rezilta","konsekans","efè"]
+rezilta
+konsekans
+efè

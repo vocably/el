@@ -1,1 +1,3 @@
-["sakamako","amfani","karshe"]
+sakamako
+amfani
+karshe

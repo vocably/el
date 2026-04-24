@@ -1,1 +1,4 @@
-["stuaim","inntinn","ullamhachd","cur-seachad"]
+stuaim
+inntinn
+ullamhachd
+cur-seachad

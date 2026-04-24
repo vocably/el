@@ -1,1 +1,3 @@
-["cosnaím","tugaim údar","fíoraím"]
+cosnaím
+tugaim údar
+fíoraím

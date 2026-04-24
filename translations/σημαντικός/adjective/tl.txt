@@ -1,1 +1,2 @@
-["mahalaga","makabuluhan"]
+mahalaga
+makabuluhan

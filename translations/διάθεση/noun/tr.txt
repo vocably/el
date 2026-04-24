@@ -1,1 +1,4 @@
-["ruh hali","istek","arz","düzenleme"]
+ruh hali
+istek
+arz
+düzenleme

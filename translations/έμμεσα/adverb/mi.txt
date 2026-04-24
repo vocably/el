@@ -1,1 +1,2 @@
-["arotau","hāngū"]
+arotau
+hāngū

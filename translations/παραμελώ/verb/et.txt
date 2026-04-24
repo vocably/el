@@ -1,1 +1,2 @@
-["hooletusse jätma","unarusse jätma"]
+hooletusse jätma
+unarusse jätma

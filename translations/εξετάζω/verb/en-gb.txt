@@ -1,1 +1,3 @@
-["examine","test","check"]
+examine
+test
+check

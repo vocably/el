@@ -1,1 +1,2 @@
-["magjepsës","tërheqës"]
+magjepsës
+tërheqës

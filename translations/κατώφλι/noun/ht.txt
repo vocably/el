@@ -1,1 +1,2 @@
-["papòt","kòmansman"]
+papòt
+kòmansman

@@ -1,1 +1,2 @@
-["prah","začiatok"]
+prah
+začiatok

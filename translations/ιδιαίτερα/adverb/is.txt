@@ -1,1 +1,3 @@
-["sérstaklega","einkum","persónulega"]
+sérstaklega
+einkum
+persónulega

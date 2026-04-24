@@ -1,1 +1,2 @@
-["tartalmas","tömör"]
+tartalmas
+tömör

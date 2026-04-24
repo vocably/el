@@ -1,1 +1,3 @@
-["rannsaich","sgrùd","ceasnaich"]
+rannsaich
+sgrùd
+ceasnaich

@@ -1,1 +1,2 @@
-["phello","tšusumetso"]
+phello
+tšusumetso

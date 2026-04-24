@@ -1,1 +1,3 @@
-["hlola","buza","funda"]
+hlola
+buza
+funda

@@ -1,1 +1,3 @@
-["araşdırmaq","yoxlamaq","müayinə etmək"]
+araşdırmaq
+yoxlamaq
+müayinə etmək

@@ -1,1 +1,3 @@
-["adnabod","cydnabod","ardystio"]
+adnabod
+cydnabod
+ardystio

@@ -1,1 +1,4 @@
-["Yanayi","Nufi","Samarwa","Shirye-shirye"]
+Yanayi
+Nufi
+Samarwa
+Shirye-shirye

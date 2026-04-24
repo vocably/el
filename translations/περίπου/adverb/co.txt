@@ -1,1 +1,2 @@
-["circa","guasi"]
+circa
+guasi

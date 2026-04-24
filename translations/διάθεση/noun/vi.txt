@@ -1,1 +1,4 @@
-["tâm trạng","ý định","cung cấp","sắp xếp"]
+tâm trạng
+ý định
+cung cấp
+sắp xếp

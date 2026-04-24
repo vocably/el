@@ -1,1 +1,2 @@
-["kõhklev","ebakindel"]
+kõhklev
+ebakindel

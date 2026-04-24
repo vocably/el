@@ -1,1 +1,2 @@
-["wozawoza","osatsimikiza"]
+wozawoza
+osatsimikiza

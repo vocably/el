@@ -1,1 +1,2 @@
-["troth","dechrau"]
+troth
+dechrau

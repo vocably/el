@@ -1,1 +1,3 @@
-["chunguuza","hoji","pima"]
+chunguuza
+hoji
+pima

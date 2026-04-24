@@ -1,1 +1,3 @@
-["stopniowo","etapami","powoli"]
+stopniowo
+etapami
+powoli

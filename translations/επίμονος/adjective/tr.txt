@@ -1,1 +1,2 @@
-["inatçı","ısrarcı"]
+inatçı
+ısrarcı

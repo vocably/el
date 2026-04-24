@@ -1,1 +1,2 @@
-["daya tahan","kateguhan"]
+daya tahan
+kateguhan

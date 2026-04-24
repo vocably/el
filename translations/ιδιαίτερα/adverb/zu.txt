@@ -1,1 +1,3 @@
-["kakhulu","ngokukhethekile","ngasese"]
+kakhulu
+ngokukhethekile
+ngasese

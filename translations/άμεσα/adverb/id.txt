@@ -1,1 +1,2 @@
-["langsung","segera"]
+langsung
+segera

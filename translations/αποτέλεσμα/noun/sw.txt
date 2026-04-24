@@ -1,1 +1,3 @@
-["matokeo","tokeo","athari"]
+matokeo
+tokeo
+athari

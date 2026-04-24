@@ -1,1 +1,3 @@
-["memeriksa","menguji","menyelidiki"]
+memeriksa
+menguji
+menyelidiki

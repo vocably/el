@@ -1,1 +1,2 @@
-["izravno","odmah"]
+izravno
+odmah

@@ -1,1 +1,3 @@
-["resultaat","gevolg","uitkoms"]
+resultaat
+gevolg
+uitkoms

@@ -1,1 +1,3 @@
-["ištirti","egzaminuoti","apžiūrėti"]
+ištirti
+egzaminuoti
+apžiūrėti

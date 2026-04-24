@@ -1,1 +1,2 @@
-["Isla mar","Degdeg"]
+Isla mar
+Degdeg

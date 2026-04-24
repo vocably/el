@@ -1,1 +1,3 @@
-["aztertu","ikuskatu","frogatu"]
+aztertu
+ikuskatu
+frogatu

@@ -1,1 +1,3 @@
-["kufufuza","kuyesa","kuwunika"]
+kufufuza
+kuyesa
+kuwunika

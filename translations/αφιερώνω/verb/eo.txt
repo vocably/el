@@ -1,1 +1,3 @@
-["dediĉi","konsekri","oferi"]
+dediĉi
+konsekri
+oferi

@@ -1,1 +1,2 @@
-["gu leòr","gu h-iomchaidh"]
+gu leòr
+gu h-iomchaidh

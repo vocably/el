@@ -1,1 +1,2 @@
-["e'tiborsiz qoldirmoq","mensimaslik"]
+e'tiborsiz qoldirmoq
+mensimaslik

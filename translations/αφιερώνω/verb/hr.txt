@@ -1,1 +1,3 @@
-["posvećujem","poklanjam","žrtvujem"]
+posvećujem
+poklanjam
+žrtvujem

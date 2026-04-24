@@ -1,1 +1,2 @@
-["epäröivä","arka"]
+epäröivä
+arka

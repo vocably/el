@@ -1,1 +1,2 @@
-["adkaysi","joogto"]
+adkaysi
+joogto

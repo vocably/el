@@ -1,1 +1,4 @@
-["əhval-ruhiyyə","niyyət","təklif","sərəncam"]
+əhval-ruhiyyə
+niyyət
+təklif
+sərəncam

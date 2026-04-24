@@ -1,1 +1,2 @@
-["hərtərəfli","tutarlı"]
+hərtərəfli
+tutarlı

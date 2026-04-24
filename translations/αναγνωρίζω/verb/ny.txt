@@ -1,1 +1,3 @@
-["zindikira","vomereza","dziwa"]
+zindikira
+vomereza
+dziwa

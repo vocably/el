@@ -1,1 +1,2 @@
-["uzuyaza","gushidikanya"]
+uzuyaza
+gushidikanya

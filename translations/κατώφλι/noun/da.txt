@@ -1,1 +1,2 @@
-["dørtrin","tærskel"]
+dørtrin
+tærskel

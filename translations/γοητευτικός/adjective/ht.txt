@@ -1,1 +1,2 @@
-["atiran","bon"]
+atiran
+bon

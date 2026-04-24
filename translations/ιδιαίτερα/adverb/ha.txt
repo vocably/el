@@ -1,1 +1,3 @@
-["musamman","sosai","kai tsaye"]
+musamman
+sosai
+kai tsaye

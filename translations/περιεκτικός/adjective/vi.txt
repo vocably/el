@@ -1,1 +1,2 @@
-["súc tích","ngắn gọn"]
+súc tích
+ngắn gọn

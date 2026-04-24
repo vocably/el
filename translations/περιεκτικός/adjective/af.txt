@@ -1,1 +1,2 @@
-["omvattend","kort en kragtig"]
+omvattend
+kort en kragtig

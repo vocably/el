@@ -1,1 +1,3 @@
-["dedicar","oferecer","consagrar"]
+dedicar
+oferecer
+consagrar

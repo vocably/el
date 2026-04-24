@@ -1,1 +1,4 @@
-["imiterere","ubushake","itangwa","gahunda"]
+imiterere
+ubushake
+itangwa
+gahunda

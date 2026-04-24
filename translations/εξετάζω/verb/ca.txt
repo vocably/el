@@ -1,1 +1,3 @@
-["examinar","sotmetre a prova","revisar"]
+examinar
+sotmetre a prova
+revisar

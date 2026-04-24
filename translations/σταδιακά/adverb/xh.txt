@@ -1,1 +1,3 @@
-["ngokuthe ngcembe","ngezigaba","kancinci kancinci"]
+ngokuthe ngcembe
+ngezigaba
+kancinci kancinci

@@ -1,1 +1,2 @@
-["priamo","ihneď"]
+priamo
+ihneď

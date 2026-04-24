@@ -1,1 +1,2 @@
-["přímo","ihned"]
+přímo
+ihned

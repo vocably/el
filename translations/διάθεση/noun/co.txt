@@ -1,1 +1,4 @@
-["umore","dispusizione","intenzione","piazzamentu"]
+umore
+dispusizione
+intenzione
+piazzamentu

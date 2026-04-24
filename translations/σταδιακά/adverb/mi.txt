@@ -1,1 +1,3 @@
-["ā-taahiraa","ā-pōturi","ā-whakaraupapa"]
+ā-taahiraa
+ā-pōturi
+ā-whakaraupapa

@@ -1,1 +1,3 @@
-["resultat","følge","utfall"]
+resultat
+følge
+utfall

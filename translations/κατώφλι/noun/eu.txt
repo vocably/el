@@ -1,1 +1,2 @@
-["atalase","hasiera"]
+atalase
+hasiera

@@ -1,1 +1,4 @@
-["gogoa","aldartea","asmoa","eskura jartzea"]
+gogoa
+aldartea
+asmoa
+eskura jartzea

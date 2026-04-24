@@ -1,1 +1,2 @@
-["mai-dagewa","mai-auri"]
+mai-dagewa
+mai-auri

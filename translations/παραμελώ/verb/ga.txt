@@ -1,1 +1,2 @@
-["faillím","déanaim faillí"]
+faillím
+déanaim faillí

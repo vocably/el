@@ -1,1 +1,2 @@
-["tereddütlü","kararsız"]
+tereddütlü
+kararsız

@@ -1,1 +1,2 @@
-["prägnant","knapp"]
+prägnant
+knapp

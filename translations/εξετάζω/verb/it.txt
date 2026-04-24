@@ -1,1 +1,3 @@
-["esaminare","interrogare","visitare"]
+esaminare
+interrogare
+visitare

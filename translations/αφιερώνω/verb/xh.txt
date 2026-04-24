@@ -1,1 +1,3 @@
-["ndinikela","ndingcwalisa","ndinikezela"]
+ndinikela
+ndingcwalisa
+ndinikezela

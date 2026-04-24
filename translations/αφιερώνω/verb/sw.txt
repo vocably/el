@@ -1,1 +1,3 @@
-["kutumia","kutoa","kuweka wakfu"]
+kutumia
+kutoa
+kuweka wakfu

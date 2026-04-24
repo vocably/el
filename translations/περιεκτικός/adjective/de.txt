@@ -1,1 +1,2 @@
-["umfassend","prägnant"]
+umfassend
+prägnant

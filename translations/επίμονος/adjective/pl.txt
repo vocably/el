@@ -1,1 +1,2 @@
-["uparty","wytrwały"]
+uparty
+wytrwały

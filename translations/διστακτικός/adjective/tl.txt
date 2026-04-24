@@ -1,1 +1,2 @@
-["nag-aalangan","atubili"]
+nag-aalangan
+atubili

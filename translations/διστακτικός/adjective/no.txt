@@ -1,1 +1,2 @@
-["nølende","tvilsom"]
+nølende
+tvilsom

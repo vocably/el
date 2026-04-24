@@ -1,1 +1,3 @@
-["ënnersichen","prouwen","kontrolléieren"]
+ënnersichen
+prouwen
+kontrolléieren

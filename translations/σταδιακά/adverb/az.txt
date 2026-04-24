@@ -1,1 +1,3 @@
-["tədricən","mərhələli şəkildə","asta-asta"]
+tədricən
+mərhələli şəkildə
+asta-asta

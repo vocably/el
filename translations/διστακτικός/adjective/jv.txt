@@ -1,1 +1,2 @@
-["mamang","ragu-ragu"]
+mamang
+ragu-ragu

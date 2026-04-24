@@ -1,1 +1,2 @@
-["përmbledhës","i shkurtër"]
+përmbledhës
+i shkurtër

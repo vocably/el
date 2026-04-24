@@ -1,1 +1,3 @@
-["erkennen","unerkennen","validéieren"]
+erkennen
+unerkennen
+validéieren

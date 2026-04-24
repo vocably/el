@@ -1,1 +1,3 @@
-["īpaši","sevišķi","personīgi"]
+īpaši
+sevišķi
+personīgi

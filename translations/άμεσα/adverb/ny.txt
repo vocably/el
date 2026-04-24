@@ -1,1 +1,2 @@
-["nthawi yomweyo","pomwepo"]
+nthawi yomweyo
+pomwepo

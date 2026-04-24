@@ -1,1 +1,4 @@
-["humør","sindstilstand","lyst","salg"]
+humør
+sindstilstand
+lyst
+salg

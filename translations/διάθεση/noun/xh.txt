@@ -1,1 +1,4 @@
-["imo","injongo","ulungiselelo","ukulahla"]
+imo
+injongo
+ulungiselelo
+ukulahla

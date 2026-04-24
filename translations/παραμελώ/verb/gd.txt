@@ -1,1 +1,2 @@
-["deanaidh dearmad","cuir an dàil"]
+deanaidh dearmad
+cuir an dàil

@@ -1,1 +1,4 @@
-["swasana","karep","pasokan","pangaturan"]
+swasana
+karep
+pasokan
+pangaturan

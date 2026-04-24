@@ -1,1 +1,3 @@
-["indrindra","manokana","amin'ny fomba manokana"]
+indrindra
+manokana
+amin'ny fomba manokana

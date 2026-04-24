@@ -1,1 +1,2 @@
-["zwięzły","treściwy"]
+zwięzły
+treściwy

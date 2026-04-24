@@ -1,1 +1,2 @@
-["mai-shakka","mai-jinkiri"]
+mai-shakka
+mai-jinkiri

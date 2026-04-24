@@ -1,1 +1,3 @@
-["natiijo","saamayn","waxtar"]
+natiijo
+saamayn
+waxtar

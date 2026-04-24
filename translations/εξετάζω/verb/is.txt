@@ -1,1 +1,3 @@
-["rannsaka","skoða","yfirheyra"]
+rannsaka
+skoða
+yfirheyra

@@ -1,1 +1,4 @@
-["burdata","dispożizzjoni","għad-dispożizzjoni","arranġament"]
+burdata
+dispożizzjoni
+għad-dispożizzjoni
+arranġament

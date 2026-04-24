@@ -1,1 +1,2 @@
-["cikakke","aminci"]
+cikakke
+aminci

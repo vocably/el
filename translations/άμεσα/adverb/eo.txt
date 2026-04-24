@@ -1,1 +1,2 @@
-["rekte","tuj"]
+rekte
+tuj

@@ -1,1 +1,2 @@
-["váhavý","nerozhodný"]
+váhavý
+nerozhodný

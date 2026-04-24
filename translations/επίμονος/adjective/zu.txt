@@ -1,1 +1,2 @@
-["oqotho","olukhuni"]
+oqotho
+olukhuni

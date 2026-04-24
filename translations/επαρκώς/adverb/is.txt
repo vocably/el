@@ -1,1 +1,2 @@
-["nægilega","fullnægjandi"]
+nægilega
+fullnægjandi

@@ -1,1 +1,4 @@
-["sin","ynstelling","ferfier","regeling"]
+sin
+ynstelling
+ferfier
+regeling
