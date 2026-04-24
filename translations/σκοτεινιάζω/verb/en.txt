@@ -1,0 +1,3 @@
+darken
+grow dark
+become dark

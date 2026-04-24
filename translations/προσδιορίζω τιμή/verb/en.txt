@@ -1,0 +1,3 @@
+price
+determine the price
+set the price

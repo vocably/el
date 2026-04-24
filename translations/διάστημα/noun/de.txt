@@ -1,0 +1,4 @@
+Zeitraum
+Abstand
+Intervall
+Raum

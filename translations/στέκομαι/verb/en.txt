@@ -1,0 +1,4 @@
+stand
+stop
+be
+stay

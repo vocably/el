@@ -1,0 +1,4 @@
+stand
+be
+last
+behave
