@@ -1,0 +1,3 @@
+untrained
+unprocessed
+raw

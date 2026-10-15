@@ -1,0 +1,5 @@
+gegen (im Sinne von 'entgegen', 'im Gegensatz zu')
+nach (im Sinne von 'gemäß', 'entsprechend')
+pro (im Sinne von 'je', 'für jede Einheit')
+entlang (im Sinne von 'der Länge nach')
+zufolge (im Sinne von 'gemäß', 'laut')

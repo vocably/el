@@ -1,0 +1,4 @@
+interval
+space
+period
+distance
